@@ -1,0 +1,313 @@
+Branch_ID,Branch_Name,Region,Month,Orders,Revenue,Avg_Rating,Customer_Count,Repeat_Customers,New_Customers,Complaints,Delivery_Time_Min,Performance_Level,Branch_Status,Reason
+K_01,Koramangala,South,2024-01-01,14788,6122232,4.6,11733,8447,3286,42,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_02,Koramangala,South,2024-02-01,14919,5505111,4.7,11248,7761,3487,56,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_03,Koramangala,South,2024-03-01,13215,4770615,4.8,9529,6575,2954,67,21,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_04,Koramangala,South,2024-04-01,14904,5946696,4.6,11604,8238,3366,76,25,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_05,Koramangala,South,2024-05-01,12189,4912167,4.5,9686,7167,2519,85,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_06,Koramangala,South,2024-06-01,12646,5045754,4.6,10244,7273,2971,73,19,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_07,Koramangala,South,2024-07-01,14041,5602359,4.7,10383,7371,3012,87,19,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_08,Koramangala,South,2024-08-01,14556,5458500,4.7,10904,7414,3490,69,23,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_09,Koramangala,South,2024-09-01,13021,5234442,4.7,11129,8124,3005,76,21,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_10,Koramangala,South,2024-10-01,15615,6043005,4.8,12058,8922,3136,70,23,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_11,Koramangala,South,2024-11-01,15266,5984272,4.7,12424,9318,3106,74,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_12,Koramangala,South,2024-12-01,16403,5806662,4.6,12243,8814,3429,79,18,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_13,Koramangala,South,2025-01-01,16753,6734706,4.7,14247,10685,3562,63,25,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_14,Koramangala,South,2025-02-01,14640,5036160,4.7,12710,8897,3813,69,18,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_15,Koramangala,South,2025-03-01,14088,5410516,4.8,10358,7354,3004,43,25,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_16,Koramangala,South,2025-04-01,12502,4788266,4.6,10276,7193,3083,58,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_17,Koramangala,South,2025-05-01,13570,4640940,4.7,11422,8338,3084,71,24,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_18,Koramangala,South,2025-06-01,12502,5225836,4.7,9856,6702,3154,73,20,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_19,Koramangala,South,2025-07-01,14939,5841149,4.5,12102,8229,3873,66,24,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_20,Koramangala,South,2025-08-01,13923,4928742,4.8,11707,8429,3278,57,24,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_21,Koramangala,South,2025-09-01,13059,5410516,4.8,11345,7941,3404,41,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_22,Koramangala,South,2025-10-01,16794,6163398,4.6,12678,9001,3677,87,23,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_23,Koramangala,South,2025-11-01,15367,6162167,4.8,11334,7820,3514,45,25,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+K_24,Koramangala,South,2025-12-01,15409,5269878,4.7,11111,7555,3556,86,22,High,Healthy,"Authentic taste, flagship outlet, huge footfall"
+J_01,Jayanagar,South,2024-01-01,15500,5936500,4.7,11765,8235,3530,71,22,High,Healthy,Large seating capacity and fast service
+J_02,Jayanagar,South,2024-02-01,13631,5411507,4.7,11913,8696,3217,86,18,High,Healthy,Large seating capacity and fast service
+J_03,Jayanagar,South,2024-03-01,13636,4649876,4.6,10914,7421,3493,51,20,High,Healthy,Large seating capacity and fast service
+J_04,Jayanagar,South,2024-04-01,13589,4864862,4.7,11264,7659,3605,66,18,High,Healthy,Large seating capacity and fast service
+J_05,Jayanagar,South,2024-05-01,13076,5321932,4.6,9583,7187,2396,63,23,High,Healthy,Large seating capacity and fast service
+J_06,Jayanagar,South,2024-06-01,12122,4957898,4.6,9501,6840,2661,72,25,High,Healthy,Large seating capacity and fast service
+J_07,Jayanagar,South,2024-07-01,14799,6052791,4.7,12302,8611,3691,43,21,High,Healthy,Large seating capacity and fast service
+J_08,Jayanagar,South,2024-08-01,13794,5600364,4.7,11718,8085,3633,63,20,High,Healthy,Large seating capacity and fast service
+J_09,Jayanagar,South,2024-09-01,14911,5636358,4.5,12970,9727,3243,75,18,High,Healthy,Large seating capacity and fast service
+J_10,Jayanagar,South,2024-10-01,14535,5377950,4.7,12505,9253,3252,59,19,High,Healthy,Large seating capacity and fast service
+J_11,Jayanagar,South,2024-11-01,15679,6255921,4.6,11943,8957,2986,50,22,High,Healthy,Large seating capacity and fast service
+J_12,Jayanagar,South,2024-12-01,17185,6375635,4.5,14113,10161,3952,46,22,High,Healthy,Large seating capacity and fast service
+J_13,Jayanagar,South,2025-01-01,16164,5528088,4.6,13852,10389,3463,53,25,High,Healthy,Large seating capacity and fast service
+J_14,Jayanagar,South,2025-02-01,14101,5795511,4.7,11924,8346,3578,58,21,High,Healthy,Large seating capacity and fast service
+J_15,Jayanagar,South,2025-03-01,12103,4405492,4.7,8723,6367,2356,69,25,High,Healthy,Large seating capacity and fast service
+J_16,Jayanagar,South,2025-04-01,13919,5832061,4.6,12236,8565,3671,36,23,High,Healthy,Large seating capacity and fast service
+J_17,Jayanagar,South,2025-05-01,12160,4365440,4.5,9468,7101,2367,48,22,High,Healthy,Large seating capacity and fast service
+J_18,Jayanagar,South,2025-06-01,13415,5191605,4.8,9859,6704,3155,51,25,High,Healthy,Large seating capacity and fast service
+J_19,Jayanagar,South,2025-07-01,12469,4862910,4.6,10757,7852,2905,80,23,High,Healthy,Large seating capacity and fast service
+J_20,Jayanagar,South,2025-08-01,14074,5671822,4.7,12079,8576,3503,64,18,High,Healthy,Large seating capacity and fast service
+J_21,Jayanagar,South,2025-09-01,12815,4562140,4.6,11266,7660,3606,69,25,High,Healthy,Large seating capacity and fast service
+J_22,Jayanagar,South,2025-10-01,16335,6141960,4.8,14187,9930,4257,87,23,High,Healthy,Large seating capacity and fast service
+J_23,Jayanagar,South,2025-11-01,16725,6723450,4.7,12860,9130,3730,65,20,High,Healthy,Large seating capacity and fast service
+J_24,Jayanagar,South,2025-12-01,17221,6268444,4.8,13486,9305,4181,37,25,High,Healthy,Large seating capacity and fast service
+I_01,Indiranagar,East,2024-01-01,16804,6234284,4.7,13903,10427,3476,74,23,High,Healthy,Prime location with strong dine-in demand
+I_02,Indiranagar,East,2024-02-01,13686,8307202,4.5,11712,8081,3631,61,19,High,Healthy,Prime location with strong dine-in demand
+I_03,Indiranagar,East,2024-03-01,12245,4469425,4.6,10403,7698,2705,63,19,High,Healthy,Prime location with strong dine-in demand
+I_04,Indiranagar,East,2024-04-01,12920,4961280,4.7,9704,6889,2815,41,18,High,Healthy,Prime location with strong dine-in demand
+I_05,Indiranagar,East,2024-05-01,14559,5153886,4.6,11357,7949,3408,48,21,High,Healthy,Prime location with strong dine-in demand
+I_06,Indiranagar,East,2024-06-01,12833,5094701,4.6,10353,7040,3313,56,20,High,Healthy,Prime location with strong dine-in demand
+I_07,Indiranagar,East,2024-07-01,13148,5009388,4.8,11197,7949,3248,56,22,High,Healthy,Prime location with strong dine-in demand
+I_08,Indiranagar,East,2024-08-01,13077,5126184,4.7,9983,7487,2496,71,18,High,Healthy,Prime location with strong dine-in demand
+I_09,Indiranagar,East,2024-09-01,12004,4633544,4.6,9986,7489,2497,40,22,High,Healthy,Prime location with strong dine-in demand
+I_10,Indiranagar,East,2024-10-01,17230,6357870,4.7,12518,8887,3631,47,19,High,Healthy,Prime location with strong dine-in demand
+I_11,Indiranagar,East,2024-11-01,13936,5588336,4.6,11897,8803,3094,62,19,High,Healthy,Prime location with strong dine-in demand
+I_12,Indiranagar,East,2024-12-01,16020,6199740,4.6,12003,8282,3721,35,24,High,Healthy,Prime location with strong dine-in demand
+I_13,Indiranagar,East,2025-01-01,14830,6050640,4.8,12129,8975,3154,73,25,High,Healthy,Prime location with strong dine-in demand
+I_14,Indiranagar,East,2025-02-01,14294,5660424,4.5,11073,7751,3322,60,25,High,Healthy,Prime location with strong dine-in demand
+I_15,Indiranagar,East,2025-03-01,13243,5310443,4.5,11025,8048,2977,83,23,High,Healthy,Prime location with strong dine-in demand
+I_16,Indiranagar,East,2025-04-01,13227,4999806,4.5,10256,7384,2872,60,25,High,Healthy,Prime location with strong dine-in demand
+I_17,Indiranagar,East,2025-05-01,13757,5131361,4.7,10479,7544,2935,44,23,High,Healthy,Prime location with strong dine-in demand
+I_18,Indiranagar,East,2025-06-01,14809,6042072,4.8,12283,9212,3071,66,18,High,Healthy,Prime location with strong dine-in demand
+I_19,Indiranagar,East,2025-07-01,14839,5505269,4.8,12916,9170,3746,36,18,High,Healthy,Prime location with strong dine-in demand
+I_20,Indiranagar,East,2025-08-01,13687,5091564,4.7,11631,7909,3722,69,21,High,Healthy,Prime location with strong dine-in demand
+I_21,Indiranagar,East,2025-09-01,13636,5631668,4.7,10268,7701,2567,35,18,High,Healthy,Prime location with strong dine-in demand
+I_22,Indiranagar,East,2025-10-01,14126,5283124,4.5,10931,7542,3389,65,23,High,Healthy,Prime location with strong dine-in demand
+I_23,Indiranagar,East,2025-11-01,13902,8307202,4.6,10589,7306,3283,60,19,High,Healthy,Prime location with strong dine-in demand
+I_24,Indiranagar,East,2025-12-01,14748,5530500,4.7,11604,8354,3250,79,20,High,Healthy,Prime location with strong dine-in demand
+R_01,Residency Road,Central,2024-01-01,17029,6862687,4.7,13830,10372,3458,71,18,High,Healthy,Corporate crowd and high delivery volume
+R_02,Residency Road,Central,2024-02-01,13122,4763286,4.6,11268,8338,2930,52,18,High,Healthy,Corporate crowd and high delivery volume
+R_03,Residency Road,Central,2024-03-01,12036,4441284,4.6,10404,7698,2706,89,22,High,Healthy,Corporate crowd and high delivery volume
+R_04,Residency Road,Central,2024-04-01,14109,5615382,4.6,10384,7476,2908,59,23,High,Healthy,Corporate crowd and high delivery volume
+R_05,Residency Road,Central,2024-05-01,13635,4744980,4.5,10513,7464,3049,75,20,High,Healthy,Corporate crowd and high delivery volume
+R_06,Residency Road,Central,2024-06-01,12717,4514535,4.7,10068,6946,3122,86,20,High,Healthy,Corporate crowd and high delivery volume
+R_07,Residency Road,Central,2024-07-01,12395,4486990,4.6,10473,7540,2933,55,21,High,Healthy,Corporate crowd and high delivery volume
+R_08,Residency Road,Central,2024-08-01,13062,4610886,4.5,10553,7809,2744,76,19,High,Healthy,Corporate crowd and high delivery volume
+R_09,Residency Road,Central,2024-09-01,13156,4696692,4.7,11511,8057,3454,63,20,High,Healthy,Corporate crowd and high delivery volume
+R_10,Residency Road,Central,2024-10-01,14895,5243040,4.7,11254,8215,3039,72,24,High,Healthy,Corporate crowd and high delivery volume
+R_11,Residency Road,Central,2024-11-01,15428,5800928,4.7,11683,8411,3272,36,22,High,Healthy,Corporate crowd and high delivery volume
+R_12,Residency Road,Central,2024-12-01,15546,6373860,4.8,13645,9278,4367,56,21,High,Healthy,Corporate crowd and high delivery volume
+R_13,Residency Road,Central,2025-01-01,15128,5945304,4.6,12598,9070,3528,65,20,High,Healthy,Corporate crowd and high delivery volume
+R_14,Residency Road,Central,2025-02-01,12713,4881792,4.8,9176,6423,2753,73,23,High,Healthy,Corporate crowd and high delivery volume
+R_15,Residency Road,Central,2025-03-01,13243,5297200,4.7,11278,8458,2820,54,21,High,Healthy,Corporate crowd and high delivery volume
+R_16,Residency Road,Central,2025-04-01,13958,5611116,4.7,11116,8114,3002,47,21,High,Healthy,Corporate crowd and high delivery volume
+R_17,Residency Road,Central,2025-05-01,12823,4911209,4.7,11238,7754,3484,87,23,High,Healthy,Corporate crowd and high delivery volume
+R_18,Residency Road,Central,2025-06-01,14220,5887080,4.5,12329,9000,3329,55,25,High,Healthy,Corporate crowd and high delivery volume
+R_19,Residency Road,Central,2025-07-01,13699,5287814,4.7,11242,7756,3486,54,18,High,Healthy,Corporate crowd and high delivery volume
+R_20,Residency Road,Central,2025-08-01,13549,8307202,4.6,11708,8546,3162,35,22,High,Healthy,Corporate crowd and high delivery volume
+R_21,Residency Road,Central,2025-09-01,13035,5409525,4.8,9607,7013,2594,50,25,High,Healthy,Corporate crowd and high delivery volume
+R_22,Residency Road,Central,2025-10-01,14227,4936769,4.6,11047,7622,3425,62,21,High,Healthy,Corporate crowd and high delivery volume
+R_23,Residency Road,Central,2025-11-01,14419,5277354,4.5,11992,8994,2998,75,21,High,Healthy,Corporate crowd and high delivery volume
+R_24,Residency Road,Central,2025-12-01,15207,5596176,4.6,11273,8003,3270,54,22,High,Healthy,Corporate crowd and high delivery volume
+M_01,Marathahalli,East ORR,2024-01-01,12447,4804542,4.4,10792,6367,4425,130,34,Medium,Stable,Strong sales but crowd-related delays
+M_02,Marathahalli,East ORR,2024-02-01,7509,2793348,4.4,6340,3740,2600,129,29,Medium,Stable,Strong sales but crowd-related delays
+M_03,Marathahalli,East ORR,2024-03-01,9693,3537945,4.4,7569,4465,3104,128,29,Medium,Stable,Strong sales but crowd-related delays
+M_04,Marathahalli,East ORR,2024-04-01,10374,3527160,4.4,7491,4194,3297,92,27,Medium,Stable,Strong sales but crowd-related delays
+M_05,Marathahalli,East ORR,2024-05-01,10370,3546540,4.4,8387,4948,3439,96,31,Medium,Stable,Strong sales but crowd-related delays
+M_06,Marathahalli,East ORR,2024-06-01,10544,3753664,4.3,7998,4558,3440,89,28,Medium,Stable,Strong sales but crowd-related delays
+M_07,Marathahalli,East ORR,2024-07-01,10004,4011604,4.1,8608,4992,3616,130,31,Medium,Stable,Strong sales but crowd-related delays
+M_08,Marathahalli,East ORR,2024-08-01,7987,3019086,4.3,6608,4096,2512,107,33,Medium,Stable,Strong sales but crowd-related delays
+M_09,Marathahalli,East ORR,2024-09-01,8173,2868723,4.2,6952,3893,3059,82,29,Medium,Stable,Strong sales but crowd-related delays
+M_10,Marathahalli,East ORR,2024-10-01,8895,3166620,4.3,6595,4154,2441,109,29,Medium,Stable,Strong sales but crowd-related delays
+M_11,Marathahalli,East ORR,2024-11-01,12505,5177070,4.2,9429,5280,4149,116,31,Medium,Stable,Strong sales but crowd-related delays
+M_12,Marathahalli,East ORR,2024-12-01,12641,4664529,4.3,10223,5724,4499,113,32,Medium,Stable,Strong sales but crowd-related delays
+M_13,Marathahalli,East ORR,2025-01-01,11479,4798222,4.4,8993,5395,3598,131,27,Medium,Stable,Strong sales but crowd-related delays
+M_14,Marathahalli,East ORR,2025-02-01,8258,2882042,4.3,7170,4158,3012,96,31,Medium,Stable,Strong sales but crowd-related delays
+M_15,Marathahalli,East ORR,2025-03-01,8853,3302169,4.3,7253,4279,2974,99,34,Medium,Stable,Strong sales but crowd-related delays
+M_16,Marathahalli,East ORR,2025-04-01,8973,3248226,4.2,6644,3787,2857,122,29,Medium,Stable,Strong sales but crowd-related delays
+M_17,Marathahalli,East ORR,2025-05-01,9642,3307206,4.2,7475,4335,3140,95,34,Medium,Stable,Strong sales but crowd-related delays
+M_18,Marathahalli,East ORR,2025-06-01,10766,4306400,4.4,8082,4525,3557,106,31,Medium,Stable,Strong sales but crowd-related delays
+M_19,Marathahalli,East ORR,2025-07-01,10974,4389600,4.3,7957,5092,2865,97,30,Medium,Stable,Strong sales but crowd-related delays
+M_20,Marathahalli,East ORR,2025-08-01,10385,3998225,4.1,8082,5172,2910,120,30,Medium,Stable,Strong sales but crowd-related delays
+M_21,Marathahalli,East ORR,2025-09-01,8601,3319986,4.2,7056,4515,2541,106,27,Medium,Stable,Strong sales but crowd-related delays
+M_22,Marathahalli,East ORR,2025-10-01,11253,4107345,4.3,9665,5315,4350,122,33,Medium,Stable,Strong sales but crowd-related delays
+M_23,Marathahalli,East ORR,2025-11-01,10988,3878764,4.3,8998,5578,3420,131,33,Medium,Stable,Strong sales but crowd-related delays
+M_24,Marathahalli,East ORR,2025-12-01,11068,3829528,4.2,9185,5694,3491,124,28,Medium,Stable,Strong sales but crowd-related delays
+S_01,Singasandra,Hosur Road,2024-01-01,9680,3649360,4.3,7794,4364,3430,126,30,Medium,Stable,Good parking and family demand
+S_02,Singasandra,Hosur Road,2024-02-01,10586,4001508,4.1,8167,5226,2941,134,31,Medium,Stable,Good parking and family demand
+S_03,Singasandra,Hosur Road,2024-03-01,8754,3081408,4.1,7134,3923,3211,123,27,Medium,Stable,Good parking and family demand
+S_04,Singasandra,Hosur Road,2024-04-01,9103,3395419,4.2,7366,4124,3242,120,31,Medium,Stable,Good parking and family demand
+S_05,Singasandra,Hosur Road,2024-05-01,10940,3774300,4.3,9451,5576,3875,121,27,Medium,Stable,Good parking and family demand
+S_06,Singasandra,Hosur Road,2024-06-01,10891,4051452,4.3,7854,4712,3142,135,29,Medium,Stable,Good parking and family demand
+S_07,Singasandra,Hosur Road,2024-07-01,9824,4067136,4.1,7211,4182,3029,134,34,Medium,Stable,Good parking and family demand
+S_08,Singasandra,Hosur Road,2024-08-01,9897,3384774,4.2,7956,4853,3103,134,27,Medium,Stable,Good parking and family demand
+S_09,Singasandra,Hosur Road,2024-09-01,8563,3468015,4.3,6954,4172,2782,103,33,Medium,Stable,Good parking and family demand
+S_10,Singasandra,Hosur Road,2024-10-01,8710,3396900,4.4,7415,4078,3337,85,32,Medium,Stable,Good parking and family demand
+S_11,Singasandra,Hosur Road,2024-11-01,8846,3396864,4.3,7458,4251,3207,87,28,Medium,Stable,Good parking and family demand
+S_12,Singasandra,Hosur Road,2024-12-01,11353,4075727,4.4,8614,4996,3618,83,29,Medium,Stable,Good parking and family demand
+S_13,Singasandra,Hosur Road,2025-01-01,9266,3484016,4.3,7421,4452,2969,93,34,Medium,Stable,Good parking and family demand
+S_14,Singasandra,Hosur Road,2025-02-01,10392,3626808,4.3,8394,4700,3694,112,32,Medium,Stable,Good parking and family demand
+S_15,Singasandra,Hosur Road,2025-03-01,9173,3705892,4.4,6808,3812,2996,92,34,Medium,Stable,Good parking and family demand
+S_16,Singasandra,Hosur Road,2025-04-01,9876,3723252,4.3,7761,4811,2950,90,33,Medium,Stable,Good parking and family demand
+S_17,Singasandra,Hosur Road,2025-05-01,8618,3593706,4.4,7491,4194,3297,139,30,Medium,Stable,Good parking and family demand
+S_18,Singasandra,Hosur Road,2025-06-01,8660,3282140,4.2,7235,3979,3256,114,29,Medium,Stable,Good parking and family demand
+S_19,Singasandra,Hosur Road,2025-07-01,9355,3302315,4.3,7932,4679,3253,90,27,Medium,Stable,Good parking and family demand
+S_20,Singasandra,Hosur Road,2025-08-01,8814,3534414,4.1,6852,4385,2467,84,29,Medium,Stable,Good parking and family demand
+S_21,Singasandra,Hosur Road,2025-09-01,9272,3504816,4.3,7734,4795,2939,97,34,Medium,Stable,Good parking and family demand
+S_22,Singasandra,Hosur Road,2025-10-01,11899,4783398,4.2,9524,5809,3715,117,27,Medium,Stable,Good parking and family demand
+S_23,Singasandra,Hosur Road,2025-11-01,11743,4896831,4.2,8580,4804,3776,126,33,Medium,Stable,Good parking and family demand
+S_24,Singasandra,Hosur Road,2025-12-01,11098,4505788,4.3,9105,5463,3642,130,32,Medium,Stable,Good parking and family demand
+SR_01,Sarjapur Road,East,2024-01-01,11616,4251456,4.1,9829,5405,4424,94,33,Medium,Stable,High IT corridor delivery demand
+SR_02,Sarjapur Road,East,2024-02-01,10097,3756084,4.3,7324,4467,2857,116,29,Medium,Stable,High IT corridor delivery demand
+SR_03,Sarjapur Road,East,2024-03-01,10145,3824665,4.3,8175,5232,2943,84,29,Medium,Stable,High IT corridor delivery demand
+SR_04,Sarjapur Road,East,2024-04-01,8314,2943156,4.4,7046,4368,2678,103,30,Medium,Stable,High IT corridor delivery demand
+SR_05,Sarjapur Road,East,2024-05-01,10832,3964512,4.2,8910,4989,3921,83,30,Medium,Stable,High IT corridor delivery demand
+SR_06,Sarjapur Road,East,2024-06-01,10302,3698418,4.3,7716,4552,3164,105,29,Medium,Stable,High IT corridor delivery demand
+SR_07,Sarjapur Road,East,2024-07-01,9365,3614890,4.2,7174,4376,2798,85,34,Medium,Stable,High IT corridor delivery demand
+SR_08,Sarjapur Road,East,2024-08-01,7862,3136938,4.1,6406,3587,2819,92,34,Medium,Stable,High IT corridor delivery demand
+SR_09,Sarjapur Road,East,2024-09-01,10551,3967176,4.3,8790,5449,3341,83,31,Medium,Stable,High IT corridor delivery demand
+SR_10,Sarjapur Road,East,2024-10-01,12278,4788420,4.3,10286,6480,3806,110,28,Medium,Stable,High IT corridor delivery demand
+SR_11,Sarjapur Road,East,2024-11-01,12497,4811345,4.4,9469,5207,4262,90,33,Medium,Stable,High IT corridor delivery demand
+SR_12,Sarjapur Road,East,2024-12-01,12554,4268360,4.4,10786,6795,3991,133,33,Medium,Stable,High IT corridor delivery demand
+SR_13,Sarjapur Road,East,2025-01-01,9275,3635800,4.2,7175,4520,2655,94,31,Medium,Stable,High IT corridor delivery demand
+SR_14,Sarjapur Road,East,2025-02-01,9860,3589040,4.1,8461,4907,3554,120,29,Medium,Stable,High IT corridor delivery demand
+SR_15,Sarjapur Road,East,2025-03-01,7885,3012070,4.2,5718,3144,2574,106,28,Medium,Stable,High IT corridor delivery demand
+SR_16,Sarjapur Road,East,2025-04-01,8262,3230442,4.1,6502,3966,2536,103,27,Medium,Stable,High IT corridor delivery demand
+SR_17,Sarjapur Road,East,2025-05-01,9379,3423335,4.2,6772,4063,2709,108,33,Medium,Stable,High IT corridor delivery demand
+SR_18,Sarjapur Road,East,2025-06-01,8992,3488896,4.3,7276,4583,2693,96,30,Medium,Stable,High IT corridor delivery demand
+SR_19,Sarjapur Road,East,2025-07-01,7841,2665940,4.1,6034,3680,2354,119,27,Medium,Stable,High IT corridor delivery demand
+SR_20,Sarjapur Road,East,2025-08-01,8489,3404089,4.3,6390,3642,2748,138,34,Medium,Stable,High IT corridor delivery demand
+SR_21,Sarjapur Road,East,2025-09-01,9832,3519856,4.3,7182,4452,2730,108,32,Medium,Stable,High IT corridor delivery demand
+SR_22,Sarjapur Road,East,2025-10-01,11657,4394689,4.3,9820,5892,3928,129,28,Medium,Stable,High IT corridor delivery demand
+SR_23,Sarjapur Road,East,2025-11-01,10833,4019043,4.2,8271,4714,3557,134,33,Medium,Stable,High IT corridor delivery demand
+SR_24,Sarjapur Road,East,2025-12-01,10811,4010881,4.3,9022,5503,3519,112,33,Medium,Stable,High IT corridor delivery demand
+SN_01,Sahakar Nagar,North,2024-01-01,12557,4997686,4.2,10056,5731,4325,136,33,Medium,Stable,Localized delivery-focused customer base
+SN_02,Sahakar Nagar,North,2024-02-01,7827,3052530,4.1,6452,3677,2775,126,31,Medium,Stable,Localized delivery-focused customer base
+SN_03,Sahakar Nagar,North,2024-03-01,10554,4401018,4.3,8617,5342,3275,114,34,Medium,Stable,Localized delivery-focused customer base
+SN_04,Sahakar Nagar,North,2024-04-01,10361,4071873,4.3,7799,4601,3198,83,30,Medium,Stable,Localized delivery-focused customer base
+SN_05,Sahakar Nagar,North,2024-05-01,10282,3557572,4.2,8613,5512,3101,97,33,Medium,Stable,Localized delivery-focused customer base
+SN_06,Sahakar Nagar,North,2024-06-01,10656,3633696,4.1,9224,5165,4059,98,30,Medium,Stable,Localized delivery-focused customer base
+SN_07,Sahakar Nagar,North,2024-07-01,10256,4163936,4.2,8352,4677,3675,121,33,Medium,Stable,Localized delivery-focused customer base
+SN_08,Sahakar Nagar,North,2024-08-01,7895,3094840,4.3,6056,3815,2241,116,32,Medium,Stable,Localized delivery-focused customer base
+SN_09,Sahakar Nagar,North,2024-09-01,9023,3726499,4.4,7313,4022,3291,123,34,Medium,Stable,Localized delivery-focused customer base
+SN_10,Sahakar Nagar,North,2024-10-01,11046,3899238,4.4,9263,5187,4076,111,27,Medium,Stable,Localized delivery-focused customer base
+SN_11,Sahakar Nagar,North,2024-11-01,8896,3051328,4.2,6593,3955,2638,88,32,Medium,Stable,Localized delivery-focused customer base
+SN_12,Sahakar Nagar,North,2024-12-01,11012,3931284,4.2,8861,5316,3545,102,31,Medium,Stable,Localized delivery-focused customer base
+SN_13,Sahakar Nagar,North,2025-01-01,11027,4146152,4.3,9088,4998,4090,117,28,Medium,Stable,Localized delivery-focused customer base
+SN_14,Sahakar Nagar,North,2025-02-01,8901,3257766,4.3,7690,4614,3076,132,28,Medium,Stable,Localized delivery-focused customer base
+SN_15,Sahakar Nagar,North,2025-03-01,8145,3192840,4.3,6092,3837,2255,113,30,Medium,Stable,Localized delivery-focused customer base
+SN_16,Sahakar Nagar,North,2025-04-01,9208,3545080,4.4,6698,4286,2412,100,30,Medium,Stable,Localized delivery-focused customer base
+SN_17,Sahakar Nagar,North,2025-05-01,10567,3962625,4.4,8911,5257,3654,80,29,Medium,Stable,Localized delivery-focused customer base
+SN_18,Sahakar Nagar,North,2025-06-01,7528,2996144,4.2,5778,3351,2427,119,29,Medium,Stable,Localized delivery-focused customer base
+SN_19,Sahakar Nagar,North,2025-07-01,8750,3158750,4.4,7325,4541,2784,134,33,Medium,Stable,Localized delivery-focused customer base
+SN_20,Sahakar Nagar,North,2025-08-01,8812,3533612,4.2,7691,4383,3308,126,30,Medium,Stable,Localized delivery-focused customer base
+SN_21,Sahakar Nagar,North,2025-09-01,9526,3924712,4.2,6973,4114,2859,105,28,Medium,Stable,Localized delivery-focused customer base
+SN_22,Sahakar Nagar,North,2025-10-01,9821,3574844,4.2,7458,4773,2685,122,34,Medium,Stable,Localized delivery-focused customer base
+SN_23,Sahakar Nagar,North,2025-11-01,8774,3079674,4.1,6824,3889,2935,123,30,Medium,Stable,Localized delivery-focused customer base
+SN_24,Sahakar Nagar,North,2025-12-01,12207,5041491,4.3,10137,5575,4562,128,31,Medium,Stable,Localized delivery-focused customer base
+K_01,Kanakapura Road,South,2024-01-01,10373,3599431,4.2,8529,4861,3668,95,34,Medium,Stable,Growing customer base
+K_02,Kanakapura Road,South,2024-02-01,10652,4377972,4.3,8094,4856,3238,133,34,Medium,Stable,Growing customer base
+K_03,Kanakapura Road,South,2024-03-01,8612,3143380,4.3,6254,3940,2314,138,28,Medium,Stable,Growing customer base
+K_04,Kanakapura Road,South,2024-04-01,8277,2863842,4.3,6004,3842,2162,96,33,Medium,Stable,Growing customer base
+K_05,Kanakapura Road,South,2024-05-01,8128,3234944,4.3,7080,4389,2691,130,34,Medium,Stable,Growing customer base
+K_06,Kanakapura Road,South,2024-06-01,10141,3620337,4.3,8149,4644,3505,131,33,Medium,Stable,Growing customer base
+K_07,Kanakapura Road,South,2024-07-01,8114,3237486,4.1,6466,3685,2781,110,34,Medium,Stable,Growing customer base
+K_08,Kanakapura Road,South,2024-08-01,7630,2884140,4.3,5878,3585,2293,119,28,Medium,Stable,Growing customer base
+K_09,Kanakapura Road,South,2024-09-01,10044,3736368,4.3,8655,4846,3809,101,27,Medium,Stable,Growing customer base
+K_10,Kanakapura Road,South,2024-10-01,10291,3920871,4.4,9040,5152,3888,81,33,Medium,Stable,Growing customer base
+K_11,Kanakapura Road,South,2024-11-01,8912,3368736,4.4,6430,3665,2765,92,28,Medium,Stable,Growing customer base
+K_12,Kanakapura Road,South,2024-12-01,8657,3428172,4.3,7037,4151,2886,108,32,Medium,Stable,Growing customer base
+K_13,Kanakapura Road,South,2025-01-01,10661,3667384,4.4,8924,5622,3302,89,32,Medium,Stable,Growing customer base
+K_14,Kanakapura Road,South,2025-02-01,9550,3886850,4.2,7969,4462,3507,135,32,Medium,Stable,Growing customer base
+K_15,Kanakapura Road,South,2025-03-01,7792,2758368,4.1,6089,3836,2253,80,31,Medium,Stable,Growing customer base
+K_16,Kanakapura Road,South,2025-04-01,10915,4366000,4.1,8311,4903,3408,138,28,Medium,Stable,Growing customer base
+K_17,Kanakapura Road,South,2025-05-01,10951,3832850,4.2,9468,5870,3598,135,33,Medium,Stable,Growing customer base
+K_18,Kanakapura Road,South,2025-06-01,9773,3508507,4.2,8346,5174,3172,131,30,Medium,Stable,Growing customer base
+K_19,Kanakapura Road,South,2025-07-01,8833,3497868,4.3,6671,4269,2402,124,32,Medium,Stable,Growing customer base
+K_20,Kanakapura Road,South,2025-08-01,10300,3543200,4.4,8453,4987,3466,135,32,Medium,Stable,Growing customer base
+K_21,Kanakapura Road,South,2025-09-01,8226,3290400,4.4,6265,4009,2256,114,30,Medium,Stable,Growing customer base
+K_22,Kanakapura Road,South,2025-10-01,11460,4251660,4.3,9100,5187,3913,96,34,Medium,Stable,Growing customer base
+K_23,Kanakapura Road,South,2025-11-01,9522,3875454,4.2,7739,4875,2864,126,27,Medium,Stable,Growing customer base
+K_24,Kanakapura Road,South,2025-12-01,10108,4103848,4.4,8823,5558,3265,82,29,Medium,Stable,Growing customer base
+E_01,Electronic City,South,2024-01-01,6733,2316152,3.7,5639,2706,2933,228,43,Low,At Risk,Heavy competition and mixed ratings
+E_02,Electronic City,South,2024-02-01,5483,2121921,3.8,4382,1928,2454,187,43,Low,At Risk,Heavy competition and mixed ratings
+E_03,Electronic City,South,2024-03-01,4953,2060448,4.0,4240,1865,2375,197,47,Low,At Risk,Heavy competition and mixed ratings
+E_04,Electronic City,South,2024-04-01,5824,2364544,3.8,4517,2213,2304,242,38,Low,At Risk,Heavy competition and mixed ratings
+E_05,Electronic City,South,2024-05-01,6389,2287262,3.9,5487,2469,3018,226,36,Low,At Risk,Heavy competition and mixed ratings
+E_06,Electronic City,South,2024-06-01,6639,2602488,4.0,5502,2640,2862,208,44,Low,At Risk,Heavy competition and mixed ratings
+E_07,Electronic City,South,2024-07-01,4690,1800960,3.9,4031,1773,2258,209,42,Low,At Risk,Heavy competition and mixed ratings
+E_08,Electronic City,South,2024-08-01,5554,2049426,3.9,4806,2114,2692,159,46,Low,At Risk,Heavy competition and mixed ratings
+E_09,Electronic City,South,2024-09-01,6629,2684745,3.9,5077,2335,2742,227,47,Low,At Risk,Heavy competition and mixed ratings
+E_10,Electronic City,South,2024-10-01,7118,2840082,4.0,5135,2105,3030,166,43,Low,At Risk,Heavy competition and mixed ratings
+E_11,Electronic City,South,2024-11-01,7948,3282524,3.9,6272,2885,3387,219,38,Low,At Risk,Heavy competition and mixed ratings
+E_12,Electronic City,South,2024-12-01,6316,2570612,3.8,4723,2125,2598,209,40,Low,At Risk,Heavy competition and mixed ratings
+E_13,Electronic City,South,2025-01-01,5730,2039880,3.7,4659,2096,2563,240,36,Low,At Risk,Heavy competition and mixed ratings
+E_14,Electronic City,South,2025-02-01,4521,1767711,3.9,3803,1635,2168,231,37,Low,At Risk,Heavy competition and mixed ratings
+E_15,Electronic City,South,2025-03-01,5530,2289420,3.7,4586,1926,2660,182,41,Low,At Risk,Heavy competition and mixed ratings
+E_16,Electronic City,South,2025-04-01,5953,2095456,3.8,5099,2141,2958,153,36,Low,At Risk,Heavy competition and mixed ratings
+E_17,Electronic City,South,2025-05-01,5386,2078996,3.9,4464,1830,2634,224,39,Low,At Risk,Heavy competition and mixed ratings
+E_18,Electronic City,South,2025-06-01,6062,2339932,4.0,4771,2099,2672,257,43,Low,At Risk,Heavy competition and mixed ratings
+E_19,Electronic City,South,2025-07-01,4583,1558220,3.8,3534,1484,2050,206,40,Low,At Risk,Heavy competition and mixed ratings
+E_20,Electronic City,South,2025-08-01,5433,1977612,3.8,4533,1813,2720,210,38,Low,At Risk,Heavy competition and mixed ratings
+E_21,Electronic City,South,2025-09-01,6309,2517291,4.0,4729,2222,2507,229,46,Low,At Risk,Heavy competition and mixed ratings
+E_22,Electronic City,South,2025-10-01,7106,2913460,3.7,5828,2389,3439,157,46,Low,At Risk,Heavy competition and mixed ratings
+E_23,Electronic City,South,2025-11-01,6277,2146734,3.8,4705,2305,2400,173,47,Low,At Risk,Heavy competition and mixed ratings
+E_24,Electronic City,South,2025-12-01,5779,2011092,3.8,4346,1738,2608,227,42,Low,At Risk,Heavy competition and mixed ratings
+R_01,Rajarajeshwari Nagar,West,2024-01-01,6343,2162963,3.7,5376,2365,3011,235,41,Low,At Risk,Lower footfall than central branches
+R_02,Rajarajeshwari Nagar,West,2024-02-01,4894,1747158,4.0,4056,1784,2272,230,43,Low,At Risk,Lower footfall than central branches
+R_03,Rajarajeshwari Nagar,West,2024-03-01,4837,1799364,3.8,4219,2025,2194,244,41,Low,At Risk,Lower footfall than central branches
+R_04,Rajarajeshwari Nagar,West,2024-04-01,5915,2105740,3.9,4356,2090,2266,200,43,Low,At Risk,Lower footfall than central branches
+R_05,Rajarajeshwari Nagar,West,2024-05-01,6195,2304540,3.7,5015,2156,2859,203,41,Low,At Risk,Lower footfall than central branches
+R_06,Rajarajeshwari Nagar,West,2024-06-01,6451,2399772,4.0,5555,2222,3333,246,37,Low,At Risk,Lower footfall than central branches
+R_07,Rajarajeshwari Nagar,West,2024-07-01,6449,2611845,3.7,5651,2599,3052,175,41,Low,At Risk,Lower footfall than central branches
+R_08,Rajarajeshwari Nagar,West,2024-08-01,4589,1757587,3.9,3380,1656,1724,164,37,Low,At Risk,Lower footfall than central branches
+R_09,Rajarajeshwari Nagar,West,2024-09-01,6494,2675528,3.7,4729,2128,2601,155,44,Low,At Risk,Lower footfall than central branches
+R_10,Rajarajeshwari Nagar,West,2024-10-01,6829,2656481,3.8,5600,2632,2968,225,43,Low,At Risk,Lower footfall than central branches
+R_11,Rajarajeshwari Nagar,West,2024-11-01,6448,2701712,3.8,5207,2239,2968,156,46,Low,At Risk,Lower footfall than central branches
+R_12,Rajarajeshwari Nagar,West,2024-12-01,5199,1835247,3.8,3811,1867,1944,152,44,Low,At Risk,Lower footfall than central branches
+R_13,Rajarajeshwari Nagar,West,2025-01-01,7629,2731182,3.9,6684,3275,3409,174,38,Low,At Risk,Lower footfall than central branches
+R_14,Rajarajeshwari Nagar,West,2025-02-01,5184,1985472,3.8,4193,1761,2432,202,42,Low,At Risk,Lower footfall than central branches
+R_15,Rajarajeshwari Nagar,West,2025-03-01,5161,1894087,3.8,3880,1629,2251,205,44,Low,At Risk,Lower footfall than central branches
+R_16,Rajarajeshwari Nagar,West,2025-04-01,4534,1881610,3.8,3390,1559,1831,203,36,Low,At Risk,Lower footfall than central branches
+R_17,Rajarajeshwari Nagar,West,2025-05-01,6248,2349248,3.9,4844,2082,2762,210,43,Low,At Risk,Lower footfall than central branches
+R_18,Rajarajeshwari Nagar,West,2025-06-01,5887,2284156,3.9,4722,1936,2786,209,43,Low,At Risk,Lower footfall than central branches
+R_19,Rajarajeshwari Nagar,West,2025-07-01,6967,2912206,3.7,6020,2468,3552,247,39,Low,At Risk,Lower footfall than central branches
+R_20,Rajarajeshwari Nagar,West,2025-08-01,6297,2248029,3.9,5170,2171,2999,207,41,Low,At Risk,Lower footfall than central branches
+R_21,Rajarajeshwari Nagar,West,2025-09-01,5293,2027219,3.9,4126,2021,2105,243,42,Low,At Risk,Lower footfall than central branches
+R_22,Rajarajeshwari Nagar,West,2025-10-01,5176,2075576,3.8,3807,1827,1980,218,41,Low,At Risk,Lower footfall than central branches
+R_23,Rajarajeshwari Nagar,West,2025-11-01,5612,1913692,3.8,4126,1774,2352,252,44,Low,At Risk,Lower footfall than central branches
+R_24,Rajarajeshwari Nagar,West,2025-12-01,7520,3038080,3.8,6345,2791,3554,184,40,Low,At Risk,Lower footfall than central branches
+M_01,Mahadevapura,East,2024-01-01,5520,2241120,3.8,4364,2138,2226,180,46,Low,At Risk,Delivery delays and customer complaints
+M_02,Mahadevapura,East,2024-02-01,6493,2233592,3.8,4933,1973,2960,225,44,Low,At Risk,Delivery delays and customer complaints
+M_03,Mahadevapura,East,2024-03-01,6206,2277602,4.0,4504,1936,2568,206,41,Low,At Risk,Delivery delays and customer complaints
+M_04,Mahadevapura,East,2024-04-01,6456,2472648,3.8,5109,2043,3066,225,40,Low,At Risk,Delivery delays and customer complaints
+M_05,Mahadevapura,East,2024-05-01,5890,2456130,4.0,4294,1846,2448,257,46,Low,At Risk,Delivery delays and customer complaints
+M_06,Mahadevapura,East,2024-06-01,5816,2175184,4.0,4608,2119,2489,178,36,Low,At Risk,Delivery delays and customer complaints
+M_07,Mahadevapura,East,2024-07-01,5582,2003938,3.8,4900,2401,2499,200,47,Low,At Risk,Delivery delays and customer complaints
+M_08,Mahadevapura,East,2024-08-01,5739,2111952,3.9,4929,2020,2909,247,44,Low,At Risk,Delivery delays and customer complaints
+M_09,Mahadevapura,East,2024-09-01,5746,2200718,3.8,4626,2127,2499,192,37,Low,At Risk,Delivery delays and customer complaints
+M_10,Mahadevapura,East,2024-10-01,7702,2672594,3.7,6740,2763,3977,194,39,Low,At Risk,Delivery delays and customer complaints
+M_11,Mahadevapura,East,2024-11-01,5322,2054292,3.9,4421,1945,2476,178,41,Low,At Risk,Delivery delays and customer complaints
+M_12,Mahadevapura,East,2024-12-01,7886,2807416,4.0,6726,2757,3969,192,45,Low,At Risk,Delivery delays and customer complaints
+M_13,Mahadevapura,East,2025-01-01,5522,2125970,3.9,4787,2249,2538,225,46,Low,At Risk,Delivery delays and customer complaints
+M_14,Mahadevapura,East,2025-02-01,5810,2329810,3.9,4794,2301,2493,202,40,Low,At Risk,Delivery delays and customer complaints
+M_15,Mahadevapura,East,2025-03-01,5509,2093420,3.9,4842,1936,2906,212,44,Low,At Risk,Delivery delays and customer complaints
+M_16,Mahadevapura,East,2025-04-01,4988,1785704,3.7,4236,1821,2415,247,41,Low,At Risk,Delivery delays and customer complaints
+M_17,Mahadevapura,East,2025-05-01,6944,2728992,3.9,5720,2288,3432,232,46,Low,At Risk,Delivery delays and customer complaints
+M_18,Mahadevapura,East,2025-06-01,5210,1938120,3.9,3949,1895,2054,168,47,Low,At Risk,Delivery delays and customer complaints
+M_19,Mahadevapura,East,2025-07-01,6838,2810418,3.8,5654,2374,3280,239,46,Low,At Risk,Delivery delays and customer complaints
+M_20,Mahadevapura,East,2025-08-01,5461,2244471,3.8,4385,2148,2237,152,40,Low,At Risk,Delivery delays and customer complaints
+M_21,Mahadevapura,East,2025-09-01,6447,2494989,3.7,5240,2305,2935,175,44,Low,At Risk,Delivery delays and customer complaints
+M_22,Mahadevapura,East,2025-10-01,7202,2772770,3.9,6012,2705,3307,197,42,Low,At Risk,Delivery delays and customer complaints
+M_23,Mahadevapura,East,2025-11-01,6198,2596962,3.9,5104,2347,2757,170,42,Low,At Risk,Delivery delays and customer complaints
+M_24,Mahadevapura,East,2025-12-01,6494,2298876,4.0,4880,2049,2831,185,46,Low,At Risk,Delivery delays and customer complaints
+KN_01,Kalyan Nagar,North-East,2024-01-01,5336,2086376,3.8,4414,1942,2472,183,39,Low,At Risk,Cloud kitchen limits visibility
+KN_02,Kalyan Nagar,North-East,2024-02-01,6192,2322000,3.9,5169,2532,2637,184,43,Low,At Risk,Cloud kitchen limits visibility
+KN_03,Kalyan Nagar,North-East,2024-03-01,4501,1863414,3.8,3329,1597,1732,153,45,Low,At Risk,Cloud kitchen limits visibility
+KN_04,Kalyan Nagar,North-East,2024-04-01,5562,2119122,3.9,4169,1667,2502,220,43,Low,At Risk,Cloud kitchen limits visibility
+KN_05,Kalyan Nagar,North-East,2024-05-01,5451,2142243,4.0,4404,2025,2379,217,41,Low,At Risk,Cloud kitchen limits visibility
+KN_06,Kalyan Nagar,North-East,2024-06-01,5899,2129539,3.9,5020,2309,2711,196,46,Low,At Risk,Cloud kitchen limits visibility
+KN_07,Kalyan Nagar,North-East,2024-07-01,5743,2188083,3.8,4961,2331,2630,158,45,Low,At Risk,Cloud kitchen limits visibility
+KN_08,Kalyan Nagar,North-East,2024-08-01,5219,2030191,3.9,4368,1878,2490,240,40,Low,At Risk,Cloud kitchen limits visibility
+KN_09,Kalyan Nagar,North-East,2024-09-01,4645,1895160,3.9,3469,1595,1874,223,36,Low,At Risk,Cloud kitchen limits visibility
+KN_10,Kalyan Nagar,North-East,2024-10-01,5729,2068169,4.0,4146,1824,2322,182,42,Low,At Risk,Cloud kitchen limits visibility
+KN_11,Kalyan Nagar,North-East,2024-11-01,8010,3300120,3.9,6268,3071,3197,181,46,Low,At Risk,Cloud kitchen limits visibility
+KN_12,Kalyan Nagar,North-East,2024-12-01,5681,2028117,3.8,4457,2050,2407,151,38,Low,At Risk,Cloud kitchen limits visibility
+KN_13,Kalyan Nagar,North-East,2025-01-01,6322,2408682,3.8,5467,2350,3117,195,38,Low,At Risk,Cloud kitchen limits visibility
+KN_14,Kalyan Nagar,North-East,2025-02-01,5505,1882710,3.8,4316,1855,2461,250,36,Low,At Risk,Cloud kitchen limits visibility
+KN_15,Kalyan Nagar,North-East,2025-03-01,5876,2068352,3.8,4718,2028,2690,190,42,Low,At Risk,Cloud kitchen limits visibility
+KN_16,Kalyan Nagar,North-East,2025-04-01,5455,2242005,3.9,4495,2112,2383,176,40,Low,At Risk,Cloud kitchen limits visibility
+KN_17,Kalyan Nagar,North-East,2025-05-01,6928,2653424,3.8,5721,2345,3376,235,41,Low,At Risk,Cloud kitchen limits visibility
+KN_18,Kalyan Nagar,North-East,2025-06-01,5732,2069252,4.0,4642,2181,2461,236,39,Low,At Risk,Cloud kitchen limits visibility
+KN_19,Kalyan Nagar,North-East,2025-07-01,7000,2933000,3.8,5498,2529,2969,180,44,Low,At Risk,Cloud kitchen limits visibility
+KN_20,Kalyan Nagar,North-East,2025-08-01,5132,1755144,3.9,4456,2094,2362,161,36,Low,At Risk,Cloud kitchen limits visibility
+KN_21,Kalyan Nagar,North-East,2025-09-01,4736,1913344,3.7,4047,1780,2267,253,41,Low,At Risk,Cloud kitchen limits visibility
+KN_22,Kalyan Nagar,North-East,2025-10-01,5345,1982995,3.7,3957,1859,2098,171,37,Low,At Risk,Cloud kitchen limits visibility
+KN_23,Kalyan Nagar,North-East,2025-11-01,6926,2507212,3.9,5278,2111,3167,163,39,Low,At Risk,Cloud kitchen limits visibility
+KN_24,Kalyan Nagar,North-East,2025-12-01,7016,2890592,3.8,5623,2699,2924,151,46,Low,At Risk,Cloud kitchen limits visibility

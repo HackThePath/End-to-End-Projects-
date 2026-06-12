@@ -1,0 +1,101 @@
+Menu_ID,Dish_Name,Main_Category,Sub_Category,Bestseller,Price,Rating,Reviews,Calories,Protein_g,Carbs_g,Fat_g,Serves,Spice_Level
+1,Aloo Dum Biryani,Veg,Biryani,Yes,330,4.5,1800+,1415.98,25.46,226.97,42.15,2,Moderate
+2,Paneer Biryani,Veg,Biryani,Yes,380,4.6,6600+,1800.51,61.42,198.62,82,2,Slightly Spicy
+3,Spl Veg Biryani,Veg,Biryani,Yes,340,4.6,2500+,1327.35,26.99,213.24,38.46,2,Slightly Spicy
+4,Mushroom Biryani,Veg,Biryani,Yes,380,4.6,1900+,1225.8,29.42,186.92,37.51,2,Slightly Spicy
+5,Veg Biryani Rice,Veg,Biryani,No,270,4.5,1500+,NA,NA,NA,NA,2,Spicy
+6,Veg Manchurian Biryani,Veg,Biryani,No,370,4.2,734,1218.09,42.53,176.93,35.32,2,Moderate
+7,Box Paneer Biryani,Veg,Box Biryani,No,270,4.6,441,NA,NA,NA,NA,1,Moderate
+8,Box Spl Veg Biryani,Veg,Box Biryani,No,235,4.5,137,NA,NA,NA,NA,1,Moderate
+9,Box Aloo Dum Biryani,Veg,Box Biryani,No,225,4.6,74,NA,NA,NA,NA,1,Moderate
+10,Box Veg Manchurian Biryani,Veg,Box Biryani,No,270,4.6,26,NA,NA,NA,NA,1,Moderate
+11,Box Mushroom Biryani,Veg,Box Biryani,No,270,4.8,55,NA,NA,NA,NA,1,Moderate
+12,Veg Fried Rice,Veg,Rice,No,300,4.3,350,1477,22.9,204.14,59.95,2,Moderate
+13,Ghee Rice,Veg,Rice,No,250,4.5,331,1824.4,25.93,246.6,78.23,2,Mild
+14,Jeera Rice,Veg,Rice,No,250,4.5,222,1832.3,27.51,246.73,78.15,2,Mild
+15,Curd Rice,Veg,Rice,No,190,4.4,488,569.98,24.32,58.63,25.64,1,Mild
+16,Paneer Butter Masala,Veg,Curry,No,370,4.3,370,1156.81,43.54,37.93,92.6,2,Moderate
+17,Veg Kadai,Veg,Curry,No,300,4.6,196,729.09,20.61,37.87,54.45,2,Spicy
+18,Palak Paneer Curry,Veg,Curry,No,355,4.5,137,833.69,30.72,33.75,64.01,2,Moderate
+19,Green Peas Curry,Veg,Curry,No,300,4.9,67,675.07,22.48,52.47,40.67,2,Moderate
+20,Aloo Matar Curry,Veg,Curry,No,300,4.7,37,658.32,18.86,57.86,38.08,2,Moderate
+21,Mushroom Masala,Veg,Curry,No,370,4.7,170,537.7,13.09,34.48,38.75,2,Moderate
+22,Tomato Curry,Veg,Curry,No,250,4.6,144,509.47,6.93,25.05,42.21,2,Mild
+23,Dal Fry,Veg,Curry,No,230,4.5,383,471.22,18,52.05,20.93,2,Spicy
+24,Mix Vegetable Curry,Veg,Curry,No,320,4.3,107,NA,NA,NA,NA,2,Moderate
+25,Veg Hyderabadi Curry,Veg,Curry,No,320,4,7,NA,NA,NA,NA,2,Moderate
+26,Kaju Masala,Veg,Curry,No,380,3.8,101,780.95,15.53,39.3,62.27,2,Moderate
+27,Paneer 65,Veg,Starter,No,370,4.7,406,723.82,32.95,30.89,51.82,1,Moderate
+28,Gobi 65,Veg,Starter,No,310,4.3,269,187.49,7.79,16.9,9.06,1,Moderate
+29,Gobi Manchurian,Veg,Starter,No,310,4.5,410,194.6,7.96,15.56,10.89,1,Moderate
+30,Chilly Paneer,Veg,Starter,No,370,4.6,543,871.69,51.9,21.54,64.36,1,Spicy
+31,Golden Baby Corn,Veg,Starter,No,350,4.3,477,325.18,9.84,40.6,13.76,1,Mild
+32,Chilly Gobi,Veg,Starter,No,310,4.4,107,192.99,8.11,15.54,10.39,1,Spicy
+33,Mushroom 65,Veg,Starter,No,365,4.7,192,196.76,10.27,16.97,9.35,1,Moderate
+34,Chilly Mushroom,Veg,Starter,No,365,4.6,252,203.43,11.25,15.55,10.64,1,Spicy
+35,Chilly Babycorn,Veg,Starter,No,350,4.5,168,308.05,8.85,39.35,12.97,1,Spicy
+36,Paneer Manchurian,Veg,Starter,No,365,4.6,131,706.01,41.58,18.14,52.24,1,Moderate
+37,Baby Corn Manchurian,Veg,Starter,No,350,4.6,192,258.72,7.42,32.28,11.45,1,Moderate
+38,Mushroom Manchurian,Veg,Starter,No,355,4.3,76,NA,NA,NA,NA,1,Moderate
+39,Veg Manchurian,Veg,Starter,No,350,4.3,114,240.61,12.72,18.83,12.39,1,Moderate
+40,Paneer Kabab,Veg,Starter,No,385,4.6,139,NA,NA,NA,NA,1,Moderate
+41,Paneer Ghee Roast,Veg,Starter,No,385,4.6,66,NA,NA,NA,NA,1,Moderate
+42,Meghana Spl Crispy Baby Corn,Veg,Starter,No,355,NA,NA,NA,NA,NA,NA,1,Moderate
+43,Mushroom Kabab,Veg,Starter,No,385,4,9,NA,NA,NA,NA,1,Moderate
+44,Phulka,Veg,Bread,No,25,4.3,903,NA,NA,NA,NA,1,Mild
+45,Mineral Water 1L,Veg,Beverage,No,19.05,4.5,214,NA,NA,NA,NA,1,NA
+46,Coke Tin 330 ML,Veg,Beverage,No,66.66,4.6,333,NA,NA,NA,NA,1,NA
+47,Thums Up Tin 330 ML,Veg,Beverage,No,66.66,4.6,253,NA,NA,NA,NA,1,NA
+48,Sprite Tin 330 ML,Veg,Beverage,No,66.66,4.8,229,NA,NA,NA,NA,1,NA
+49,Chicken Biryani,Non-Veg,Biryani,Yes,365,4.4,2600+,1615.27,61.82,190.89,64.63,2,Moderate
+50,Chicken Boneless Biryani,Non-Veg,Biryani,Yes,375,4.6,12900+,1446.5,64.22,189.62,44.2,2,Spicy
+51,Meghana Special Boneless Biryani,Non-Veg,Biryani,Yes,383,4.6,1700+,1456.21,64.65,190.89,44.5,2,Moderate
+52,Mutton Biryani,Non-Veg,Biryani,No,490,4.3,1300+,1586.02,66.69,185.36,61.78,2,Moderate
+53,Mutton Keema Biryani,Non-Veg,Biryani,No,480,4.3,217,1551.26,42.47,200.46,61.1,2,Moderate
+54,Fish Biriyani,Non-Veg,Biryani,No,455,4.4,155,1429.3,55.02,189.62,47.6,2,Moderate
+55,Prawns Biryani,Non-Veg,Biryani,No,470,4.6,640,1431.95,37.34,213.4,43.56,2,Moderate
+56,Egg Biryani,Non-Veg,Biryani,No,340,4.4,1100+,1421.92,38.82,196.91,50.86,2,Moderate
+57,Chicken Fry Pc Biriyani,Non-Veg,Biryani,No,390,4.5,342,1576.65,55.24,197.77,59.33,2,Moderate
+58,Lollipop Biryani,Non-Veg,Biryani,No,370,4.3,296,1673.09,45.42,217.95,65.98,2,Slightly Spicy
+59,Nati Chicken Biryani,Non-Veg,Biryani,No,430,4.5,140,1606.2,58.94,194.62,63.21,2,Slightly Spicy
+60,Non Veg Biryani Rice,Non-Veg,Biryani,No,280,4.5,826,NA,NA,NA,NA,2,Spicy
+61,Box Chicken Boneless Biryani,Non-Veg,Box Biryani,No,265,4.6,621,NA,NA,NA,NA,1,Moderate
+62,Box Meghana Special Boneless Biryani,Non-Veg,Box Biryani,Yes,270,4.5,366,NA,NA,NA,NA,1,Moderate
+63,Box Chicken Fry Biryani,Non-Veg,Box Biryani,No,270,4.1,7,NA,NA,NA,NA,1,Moderate
+64,Box Nati Chicken Biryani,Non-Veg,Box Biryani,No,290,4.3,14,NA,NA,NA,NA,1,Moderate
+65,Box Fish Biryani,Non-Veg,Box Biryani,No,290,4.5,9,NA,NA,NA,NA,1,Moderate
+66,Box Prawns Biryani,Non-Veg,Box Biryani,No,305,4.7,15,NA,NA,NA,NA,1,Moderate
+67,Box Mutton Kheema Biriyani,Non-Veg,Box Biryani,No,315,4.4,22,NA,NA,NA,NA,1,Moderate
+68,Box Egg Biryani,Non-Veg,Box Biryani,No,230,4.7,113,NA,NA,NA,NA,1,Moderate
+69,Chicken Fried Rice,Non-Veg,Rice,No,360,4.5,376,NA,NA,NA,NA,2,Moderate
+70,Egg Fried Rice,Non-Veg,Rice,No,310,4.4,291,NA,NA,NA,NA,2,Moderate
+71,Chicken Boneless Curry,Non-Veg,Curry,No,370,4.6,885,NA,NA,NA,NA,2,Moderate
+72,Butter Chicken Curry,Non-Veg,Curry,No,375,4.5,428,NA,NA,NA,NA,2,Moderate
+73,Chicken Curry,Non-Veg,Curry,No,370,4,85,NA,NA,NA,NA,2,Moderate
+74,Mutton Curry,Non-Veg,Curry,No,460,4.7,186,NA,NA,NA,NA,2,Moderate
+75,Fish Curry,Non-Veg,Curry,No,425,3.8,42,NA,NA,NA,NA,2,Moderate
+76,Prawns Curry,Non-Veg,Curry,No,460,3.9,96,NA,NA,NA,NA,2,Moderate
+77,Egg Masala Curry,Non-Veg,Curry,No,275,4.5,349,NA,NA,NA,NA,2,Moderate
+78,Tomato Egg Curry,Non-Veg,Curry,No,275,5,5,NA,NA,NA,NA,2,Mild
+79,Nati Chicken Curry,Non-Veg,Curry,No,410,4.3,110,NA,NA,NA,NA,2,Spicy
+80,Chicken Hyd Curry With Bone,Non-Veg,Curry,No,370,4.3,10,NA,NA,NA,NA,2,Spicy
+81,Chicken Hyd Curry Boneless,Non-Veg,Curry,No,370,4.6,36,NA,NA,NA,NA,2,Spicy
+82,Chilly Chicken (Boneless),Non-Veg,Starter,No,375,4.4,614,NA,NA,NA,NA,1,Spicy
+83,Chilly Chicken (Andhra Style),Non-Veg,Starter,No,375,4.6,359,NA,NA,NA,NA,1,Very Spicy
+84,Chicken 65,Non-Veg,Starter,No,375,4.6,1300+,NA,NA,NA,NA,1,Very Spicy
+85,Meghana Chicken 555,Non-Veg,Starter,Yes,375,4.5,1100+,585.13,32.48,26.88,39.36,1,Very Spicy
+86,Lemon Chicken,Non-Veg,Starter,No,375,4.6,901,NA,NA,NA,NA,1,Moderate
+87,Chicken Kabab,Non-Veg,Starter,No,360,4.3,535,NA,NA,NA,NA,1,Moderate
+88,Chicken Lollypop,Non-Veg,Starter,No,370,4.5,852,NA,NA,NA,NA,1,Moderate
+89,Chicken Pakoda,Non-Veg,Starter,No,375,4.3,331,NA,NA,NA,NA,1,Moderate
+90,Pepper Chicken,Non-Veg,Starter,Yes,370,4.5,1700+,609.63,47.42,25.62,33.7,1,Spicy
+91,Chicken Fry,Non-Veg,Starter,No,360,4.3,124,NA,NA,NA,NA,1,Moderate
+92,Chicken Maharaja,Non-Veg,Starter,No,380,4.5,426,NA,NA,NA,NA,1,Spicy
+93,Mutton Fry,Non-Veg,Starter,No,400,4.5,155,NA,NA,NA,NA,1,Spicy
+94,Today's Andhra Spl,Non-Veg,Starter,No,410,2.9,21,NA,NA,NA,NA,1,Very Spicy
+95,Chicken Leg Roast,Non-Veg,Starter,No,410,4.3,47,NA,NA,NA,NA,1,Moderate
+96,Chilly Fish,Non-Veg,Seafood Starter,No,390,4.4,91,NA,NA,NA,NA,1,Spicy
+97,Apollo Fish,Non-Veg,Seafood Starter,No,395,4.6,190,NA,NA,NA,NA,1,Spicy
+98,Chilli Prawns,Non-Veg,Seafood Starter,No,445,4.6,305,NA,NA,NA,NA,1,Spicy
+99,Prawns Fry,Non-Veg,Seafood Starter,No,445,4.6,136,NA,NA,NA,NA,1,Moderate
+100,Boiled Egg (2nos),Non-Veg,Egg,No,45,4.5,428,NA,NA,NA,NA,1,Mild

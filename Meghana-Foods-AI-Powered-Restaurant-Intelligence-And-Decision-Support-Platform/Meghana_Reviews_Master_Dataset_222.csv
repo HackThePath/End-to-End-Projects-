@@ -1,0 +1,223 @@
+﻿Review_ID,Rating,Review_Text,Sentiment,Complaint_Category,Churn_Risk
+R001,1,"Employee misbehaved, order was cancelled, delivery was delayed and the overall service experience was very bad.",Negative,Staff Behaviour,High
+R002,1,Biryani felt overrated and the cost was too high for the taste offered.,Negative,Pricing,High
+R003,1,Chicken was found in veg biryani and the restaurant denied responsibility.,Negative,Food Quality,High
+R004,1,Paneer biryani was overpriced and the quantity was very less for the money paid.,Negative,Pricing & Quantity,High
+R005,1,"Taste has deteriorated, food was oily, service was delayed and staff response was poor.",Negative,Taste & Service,High
+R006,1,Online food delivery was delayed for more than two hours with no proper response.,Negative,Delivery,High
+R007,1,Food was too spicy and did not have good taste.,Negative,Taste,High
+R008,1,"Taste was inconsistent, food quality was poor and prices felt high.",Negative,Taste & Pricing,High
+R009,1,"Biryani was average, too spicy and not worth the price.",Negative,Taste,High
+R010,1,"Quality has gone down, service was poor and prices have increased.",Negative,Food Quality & Service,High
+R011,2,Average biryani with no memorable signature dish.,Negative,Taste,High
+R012,2,Food taste has deteriorated and biryani has lost its original charm.,Negative,Taste & Food Quality,High
+R013,2,Meghana special biryani was too spicy and lacked authentic biryani flavor.,Negative,Taste,High
+R014,2,Veg biryani was disappointing and paneer preparation was not good.,Negative,Food Quality,High
+R015,2,Chicken biryani was extremely spicy and difficult to eat.,Negative,Taste,High
+R016,2,"Restaurant felt overhyped with long waiting time, dirty tables and spice overpowering the flavor.",Negative,Taste & Service,High
+R017,3,"Food was nice and biryani tasted good, but the overall experience was only average.",Neutral,Taste,Medium
+R018,3,"Meghana special biryani was good, but taste has reduced compared to earlier visits.",Neutral,Taste Decline,Medium
+R019,3,Chicken was served separately from rice and the biryani flavor felt different.,Neutral,Food Quality,Medium
+R020,3,Ordered special chicken biryani and egg biryani but taste did not meet expectations.,Neutral,Taste & Expectations,Medium
+R021,3,Biryani is good but there is still scope to improve consistency.,Neutral,Product Quality,Medium
+R022,3,"Good place for family dining and budget meals, but not exceptional.",Neutral,General Experience,Medium
+R023,3,Good place for non-vegetarians with spicy food and many starter options.,Neutral,Food Quality,Low
+R024,3,Felt the biryani was overrated and not as special as expected.,Neutral,Overrated Taste,Medium
+R025,3,Food was spicy and price felt a little high for solo eating.,Neutral,Price & Service,Medium
+R026,3,Boneless chicken biryani was good but ambience and service need improvement.,Neutral,Service,Medium
+R027,3,"Biryani was average, too spicy and slightly expensive.",Neutral,Pricing & Taste,Medium
+R028,3,Taste and service standards have started falling and delivery is slow.,Neutral,Service & Delivery,Medium
+R029,3,"Fine biryani, large quantity and decent value for money.",Neutral,Value for Money,Low
+R030,3,Average biryani quality and cost is high compared to competitors.,Neutral,Pricing,Medium
+R031,3,Chicken biryani was average and the ambience was plain.,Neutral,Taste & Ambience,Medium
+R032,3,Good biryani with unique taste but not best in class.,Neutral,Food Quality,Low
+R033,3,Fresh and tasty food but too spicy for some customers.,Neutral,Spice Level,Medium
+R034,3,Veg biryani was only okay and the restaurant felt hyped.,Neutral,Overhyped,Medium
+R035,3,Food was nicely done but delivery service needs improvement.,Neutral,Service,Medium
+R036,3,Food is good but tipping issue and waiter behavior spoiled the experience.,Neutral,Staff Behaviour,Medium
+R037,3,Biryani was okay but not heavenly and ambience was cramped.,Neutral,Taste,Medium
+R038,3,Good biryani for spicy food lovers but not suitable for everyone.,Neutral,Taste,Low
+R039,3,Decent biryani but crowded restaurant and waiting time reduce the experience.,Neutral,Crowding,Medium
+R040,4,"Hot, spicy and yummy biryanis with fast service and good value, though ambience is basic.",Positive,Taste,Low
+R041,4,Special boneless chicken biryani was awesome and overall taste was delicious.,Positive,Taste,Low
+R042,4,"Good biryani quality, value and taste though parking is not available.",Positive,Value for Money,Low
+R043,4,"Good biryani and non-veg starters, home delivery option is useful.",Positive,Taste,Low
+R044,4,Good place to grab chicken biryani and starters with decent value for money.,Positive,General Experience,Low
+R045,4,Delicious biryani served well for team lunch.,Positive,Taste,Low
+R046,4,Great Andhra-style non-veg food with prompt service and large portions.,Positive,Food Quality,Low
+R047,4,"Worth trying for Andhra-style biryani with good taste, though waiting time is common.",Positive,Waiting Time,Low
+R048,4,"Super biryani with awesome taste, variety and reasonable pricing.",Positive,Taste,Low
+R049,4,Biryani tasted better than expected and was memorable.,Positive,Taste,Low
+R050,4,Special boneless biryani had good quality and quantity with good ambience.,Positive,Food Quality,Low
+R051,4,"Delicious biryanis with decent price and good quantity, but service could improve.",Positive,Service,Low
+R052,4,"Awesome hot and spicy biryani, especially boneless chicken and prawn options.",Positive,Taste,Low
+R053,4,"Good Andhra essence, quality and service for the price paid.",Positive,Value for Money,Low
+R054,4,Famous biryani place with good non-veg items and spicy taste.,Positive,Taste,Low
+R055,4,"Ideal place for biryani and chicken curry, good for groups.",Positive,Food Variety,Low
+R056,4,Authentic Hyderabadi flavour but parking can be difficult.,Positive,Parking,Low
+R057,4,Paradise for biryani lovers with delicious food and affordable pricing.,Positive,Taste,Low
+R058,4,"Nice biryani with large portions, though staff hovered around during dining.",Positive,Service,Low
+R059,4,"Best biryani in Bangalore with good veg and non-veg options, but tables fill fast.",Positive,Crowding,Low
+R060,4,Authentic Andhra style biryani with good flavor and generous quantity.,Positive,Taste,Low
+R061,4,Boneless chicken biryani was delicious and worth the price.,Positive,Value for Money,Low
+R062,4,Food quality was consistently good and service was reasonably quick.,Positive,Food Quality,Low
+R063,4,Great place for family dining though weekends are crowded.,Positive,Crowding,Low
+R064,4,The Meghana Special Biryani was flavorful and satisfying.,Positive,Taste,Low
+R065,4,Loved the biryani and starters. Ambience could be improved.,Positive,Ambience,Low
+R066,4,Good quantity and authentic Andhra spices.,Positive,Taste,Low
+R067,4,Chicken biryani was tasty and served hot.,Positive,Food Quality,Low
+R068,4,Service was prompt despite the lunch rush.,Positive,Service,Low
+R069,4,One of the better biryani places in Bangalore.,Positive,Taste,Low
+R070,4,Food was excellent but parking was difficult.,Positive,Parking,Low
+R071,4,Consistent taste across multiple visits.,Positive,Taste Consistency,Low
+R072,4,Good value for money and decent seating.,Positive,Value for Money,Low
+R073,4,Biryani portions were large enough for sharing.,Positive,Portion Size,Low
+R074,4,Delivery arrived on time and food quality was maintained.,Positive,Delivery,Low
+R075,4,Spicy but flavorful Andhra style biryani.,Positive,Taste,Low
+R076,4,Restaurant was crowded but worth the wait.,Positive,Waiting Time,Low
+R077,4,Fish biryani was surprisingly good and fresh.,Positive,Food Quality,Low
+R078,4,Staff were polite and handled orders efficiently.,Positive,Service,Low
+R079,4,Reasonable pricing for the quantity served.,Positive,Value for Money,Low
+R080,4,A reliable choice for biryani lovers.,Positive,Taste,Low
+R081,4,Chicken 65 and biryani combination was excellent.,Positive,Value for Money,Low
+R082,4,Food quality remained consistent over the years.,Positive,Food Quality,Low
+R083,4,Great takeaway option for family dinners.,Positive,Crowding,Low
+R084,4,The biryani had authentic flavor and aroma.,Positive,Taste,Low
+R085,4,Service was fast and food arrived fresh.,Positive,Ambience,Low
+R086,4,Good restaurant though ambience is basic.,Positive,Taste,Low
+R087,4,Enjoyed the boneless chicken biryani very much.,Positive,Food Quality,Low
+R088,4,Food quality and quantity justify the price.,Positive,Service,Low
+R089,4,Excellent Andhra flavors with decent service.,Positive,Taste,Low
+R090,4,Good place to visit with friends and family.,Positive,Parking,Low
+R091,4,Chicken was tender and perfectly cooked.,Positive,Taste Consistency,Low
+R092,4,One of the most dependable biryani spots.,Positive,Value for Money,Low
+R093,4,Crowded during weekends but food is worth it.,Positive,Portion Size,Low
+R094,4,Large portions and satisfying taste.,Positive,Delivery,Low
+R095,4,Quick service and tasty food.,Positive,Taste,Low
+R096,4,Loved the spicy Andhra preparation.,Positive,Waiting Time,Low
+R097,4,Clean restaurant with good food quality.,Positive,Food Quality,Low
+R098,4,Biryani tasted authentic and fresh.,Positive,Service,Low
+R099,4,Good balance between quality and price.,Positive,Value for Money,Low
+R100,4,Excellent meal despite limited parking.,Positive,Taste,Low
+R101,4,Food arrived hot and flavorful.,Positive,Value for Money,Low
+R102,4,Consistent experience across visits.,Positive,Food Quality,Low
+R103,4,Good food and friendly staff.,Positive,Crowding,Low
+R104,4,Worth visiting if you enjoy spicy biryani.,Positive,Taste,Low
+R105,4,Fresh ingredients and good preparation.,Positive,Ambience,Low
+R106,4,Restaurant handles large crowds efficiently.,Positive,Taste,Low
+R107,4,The biryani portion was generous and filling.,Positive,Food Quality,Low
+R108,4,Good option for Andhra cuisine lovers.,Positive,Service,Low
+R109,4,Value for money considering the quantity served.,Positive,Taste,Low
+R110,4,Pleasant dining experience overall.,Positive,Parking,Low
+R111,4,The food quality exceeded expectations.,Positive,Taste Consistency,Low
+R112,4,Good service and authentic flavors.,Positive,Value for Money,Low
+R113,4,Enjoyed the meal and would visit again.,Positive,Portion Size,Low
+R114,4,Excellent biryani with minor waiting time during peak hours.,Positive,Delivery,Low
+R115,4,Good spicy food and decent service for a busy outlet.,Positive,Taste,Low
+R116,4,Paneer biryani and chicken biryani were both satisfying.,Positive,Waiting Time,Low
+R117,4,Takeaway packaging was neat and food stayed warm.,Positive,Food Quality,Low
+R118,4,Good lunch option for office teams.,Positive,Service,Low
+R119,4,Andhra spice level was strong but enjoyable.,Positive,Value for Money,Low
+R120,4,Affordable meal for the quantity served.,Positive,Taste,Low
+R121,4,Food was tasty though the place was noisy.,Positive,Value for Money,Low
+R122,4,Nice biryani experience with friends.,Positive,Food Quality,Low
+R123,4,Good starters and biryani combo.,Positive,Crowding,Low
+R124,4,Popular place with consistent food quality.,Positive,Taste,Low
+R125,4,Service was quick during non-peak hours.,Positive,Ambience,Low
+R126,4,Decent ambience and very good food.,Positive,Taste,Low
+R127,4,Good biryani but peak-hour crowd is high.,Positive,Food Quality,Low
+R128,4,Flavourful rice and well-cooked chicken pieces.,Positive,Service,Low
+R129,4,Reliable restaurant for weekend biryani orders.,Positive,Taste,Low
+R130,4,Food tasted fresh and portion size was good.,Positive,Parking,Low
+R131,4,Good quality biryani with simple ambience.,Positive,Taste Consistency,Low
+R132,4,Spicy food lovers will enjoy this place.,Positive,Value for Money,Low
+R133,4,Nice Andhra meal with good biryani choices.,Positive,Portion Size,Low
+R134,4,Good dining experience overall despite waiting time.,Positive,Delivery,Low
+R135,5,"Fantastic authentic Indian food with delicious starters, curry, rice and mango lassi.",Positive,Food Quality,Very Low
+R136,5,Amazing biryani with great food and service. Highly recommended.,Positive,Taste & Service,Very Low
+R137,5,Meghana special biryani was yummy with clean ambience and quick service.,Positive,Taste & Service,Very Low
+R138,5,Best among biryani outlets with authentic flavour and good vegetarian options.,Positive,Taste,Very Low
+R139,5,"Very good taste, good maintenance and excellent service.",Positive,Service,Very Low
+R140,5,Amazing food especially prawns fry and boneless chicken gravy.,Positive,Food Quality,Very Low
+R141,5,"Amazing biryanis with great taste, variety and good portion size.",Positive,Taste & Portion Size,Very Low
+R142,5,Very tasty and hygienic food with good spicy chicken dum biryani.,Positive,Hygiene & Taste,Very Low
+R143,5,Spicy and tasty food. Recommended for spice lovers.,Positive,Taste,Very Low
+R144,5,Tasty and quality biryani though weekends have waiting time.,Positive,Waiting Time,Very Low
+R145,5,Probably the best biryani with excellent boneless and with-bone options.,Positive,Taste,Very Low
+R146,5,Excellent mutton biryani with warm service and generous quantity.,Positive,Food Quality,Very Low
+R147,5,Good variety of biryanis and must-try dishes.,Positive,Food Variety,Very Low
+R148,5,A must visit place with aromatic biryani and tender meat.,Positive,Taste,Very Low
+R149,5,Excellent biryani with awesome taste and reasonable prices.,Positive,Value for Money,Very Low
+R150,5,Worth the hype with amazing chicken and fish biryani.,Positive,Taste,Very Low
+R151,5,Boneless chicken biryani is filling and very satisfying.,Positive,Portion Size,Very Low
+R152,5,Excellent place for biryani though weekends can be crowded.,Positive,Crowding,Very Low
+R153,5,Awesome biryani with quick and good service.,Positive,Service,Very Low
+R154,5,Classic biryani with decent taste and family-friendly experience.,Positive,General Experience,Very Low
+R155,5,Awesome food served even during late afternoon with no compromise in taste.,Positive,Food Quality,Very Low
+R156,5,Top service and awesome biryani served hot and fresh.,Positive,Taste & Service,Very Low
+R157,5,Unique Hyderabad style biryani loved by family.,Positive,Taste & Service,Very Low
+R158,5,"Fantastic meals including prawn biryani, chicken biryani and kebab.",Positive,Taste,Very Low
+R159,5,Authentic Andhra food with spicy prawns biryani.,Positive,Service,Very Low
+R160,5,Fantastic biryanis with wonderful taste and good quantity.,Positive,Food Quality,Very Low
+R161,5,Spicy hot Andhra food but very delicious.,Positive,Taste & Portion Size,Very Low
+R162,5,Meghana Special Biryani was superb with good service.,Positive,Hygiene & Taste,Very Low
+R163,5,Amazing biryani and chicken dishes with good interiors.,Positive,Taste,Very Low
+R164,5,Boneless chicken biryani is special and different from Hyderabadi biryani.,Positive,Waiting Time,Very Low
+R165,5,"Excellent paneer biryani with good staff, ambience and value.",Positive,Taste,Very Low
+R166,5,Best biryani in town and special biryani is a must try.,Positive,Food Quality,Very Low
+R167,5,Ultimate taste of chicken biryani with good veg and non-veg options.,Positive,Food Variety,Very Low
+R168,5,Delighted biryani with consistent quality.,Positive,Taste,Very Low
+R169,5,Best Hyderabadi biryani in Bangalore with awesome masala.,Positive,Value for Money,Very Low
+R170,5,Awesome biryani and highly recommended for biryani lovers.,Positive,Taste,Very Low
+R171,5,Good boneless biryani with many options for family dining.,Positive,Portion Size,Very Low
+R172,5,Must try biryani with Andhra and Hyderabadi flavour mix.,Positive,Crowding,Very Low
+R173,5,Mouthwatering biryani with consistent amazing taste.,Positive,Service,Very Low
+R174,5,Awesome vegetarian biryani that justifies the dish.,Positive,General Experience,Very Low
+R175,5,Delicious chicken boneless biryani and veg options also good.,Positive,Food Quality,Very Low
+R176,5,Very good biryani taste and quick table availability.,Positive,Taste & Service,Very Low
+R177,5,Best place for biryani lovers though weekends are crowded.,Positive,Taste & Service,Very Low
+R178,5,Great spicy biryani and prawns biryani with superfast service.,Positive,Taste,Very Low
+R179,5,"Boneless chicken biryani is tasty, filling and value for money.",Positive,Service,Very Low
+R180,5,Finger licking biryani with excellent quality and quantity.,Positive,Food Quality,Very Low
+R181,5,Boneless chicken biryani is the best and perfect for rice lovers.,Positive,Taste & Portion Size,Very Low
+R182,5,Tasty starters and good biryani with decent staff.,Positive,Hygiene & Taste,Very Low
+R183,5,Best biryani ever tasted especially mutton biryani.,Positive,Taste,Very Low
+R184,5,Tastiest Andhra biryani and must-try non-veg food.,Positive,Waiting Time,Very Low
+R185,5,Boneless biryani melts in the mouth with excellent taste.,Positive,Taste,Very Low
+R186,5,Awesome biryani with super quick service.,Positive,Food Quality,Very Low
+R187,5,Awesome biryani with enough masala and Andhra style chilli chicken.,Positive,Food Variety,Very Low
+R188,5,Royal feast with strong spice flavors and excellent salan.,Positive,Taste,Very Low
+R189,5,Awesome Hyderabadi biryani and chicken dishes.,Positive,Value for Money,Very Low
+R190,5,Best biryani and must order Meghana Special.,Positive,Taste,Very Low
+R191,5,Delicious biryani and perfect for biryani lovers.,Positive,Portion Size,Very Low
+R192,5,Great food and chicken boneless biryani worth the wait.,Positive,Crowding,Very Low
+R193,5,Best biryani experience and worth packing extra for home.,Positive,Service,Very Low
+R194,5,Excellent food quality and strong brand taste.,Positive,General Experience,Very Low
+R195,5,Boneless chicken biryani was rich in flavour and perfectly cooked.,Positive,Food Quality,Very Low
+R196,5,Great Andhra style food with large portions and quick service.,Positive,Taste & Service,Very Low
+R197,5,Loved the Meghana Special Biryani and spicy starters.,Positive,Taste & Service,Very Low
+R198,5,Consistent taste across visits and always satisfying.,Positive,Taste,Very Low
+R199,5,Best choice for office lunch and family takeaway.,Positive,Service,Very Low
+R200,5,Excellent food quality and the biryani aroma was amazing.,Positive,Food Quality,Very Low
+R201,5,Very good value for money considering the quantity served.,Positive,Taste & Portion Size,Very Low
+R202,5,Chicken biryani and chicken curry were both excellent.,Positive,Hygiene & Taste,Very Low
+R203,5,Authentic Andhra flavours with spicy and tasty preparation.,Positive,Taste,Very Low
+R204,5,Restaurant was crowded but the food was worth the wait.,Positive,Waiting Time,Very Low
+R205,5,"Fresh food, quick service and satisfying biryani experience.",Positive,Taste,Very Low
+R206,5,Amazing biryani with tender chicken and flavorful rice.,Positive,Food Quality,Very Low
+R207,5,Great place for non-veg lovers with many biryani options.,Positive,Food Variety,Very Low
+R208,5,Prawns biryani and chicken biryani tasted excellent.,Positive,Taste,Very Low
+R209,5,Quality and quantity were both impressive.,Positive,Value for Money,Very Low
+R210,5,Loved the spicy masala and authentic taste.,Positive,Taste,Very Low
+R211,5,Fast service and very good food presentation.,Positive,Portion Size,Very Low
+R212,5,One of the best biryani places in Bangalore.,Positive,Crowding,Very Low
+R213,5,Good hygiene and excellent taste maintained.,Positive,Service,Very Low
+R214,5,Family loved the biryani and starters.,Positive,General Experience,Very Low
+R215,5,Perfect place for spicy food lovers.,Positive,Food Quality,Very Low
+R216,5,"Food was hot, fresh and served quickly.",Positive,Taste & Service,Very Low
+R217,5,Excellent customer experience with tasty biryani.,Positive,Taste & Service,Very Low
+R218,5,Meghana Special Biryani was flavorful and filling.,Positive,Taste,Very Low
+R219,5,Reliable restaurant for authentic Andhra biryani.,Positive,Service,Very Low
+R220,5,"Great taste, reasonable price and good quantity.",Positive,Food Quality,Very Low
+R221,5,Loved the chicken starters and biryani combination.,Positive,Taste & Portion Size,Very Low
+R222,5,Excellent biryani experience and would definitely visit again.,Positive,Hygiene & Taste,Very Low
