@@ -62,7 +62,118 @@ Executive Dashboard & Reports
 ```
 
 ---
+## Data Collection & Sources
 
+To simulate a real-world restaurant analytics environment, data was collected and engineered from publicly available restaurant information sources.
+
+### Source 1: Swiggy (Menu Intelligence)
+
+Source:
+
+https://www.swiggy.com/city/bangalore/meghana-foods-dr-rajkumar-road-rajajinagar-rest288893
+
+Data Extracted:
+
+```text
+Dish Name
+Menu Category
+Sub Category
+Price
+Ratings
+Reviews
+Bestseller Status
+```
+
+Purpose:
+
+👉 Build Menu Intelligence Module
+
+👉 Identify Hero Products
+
+👉 Discover Hidden Growth Opportunities
+
+👉 Analyse Menu Performance
+
+👉 Generate Menu Optimization Strategies
+
+---
+
+### Source 2: TripAdvisor (Customer Review Intelligence)
+
+Source:
+
+https://www.tripadvisor.in/Restaurant_Review-g297628-d2442833-Reviews-Meghana_Foods-Bengaluru_Bangalore_District_Karnataka.html
+
+Data Extracted:
+
+```text
+Customer Reviews
+Customer Ratings
+Customer Feedback
+Review Sentiment
+Complaint Themes
+```
+
+Purpose:
+
+👉 Build Customer Review Intelligence Module
+
+👉 Perform NLP-based Sentiment Analysis
+
+👉 Identify Customer Satisfaction Drivers
+
+👉 Detect Complaint Categories
+
+👉 Generate Customer Retention Recommendations
+
+---
+
+### Source 3: Business Performance Simulation
+
+Since internal restaurant operational data such as revenue, orders, customer counts, complaints, repeat customers, and delivery metrics are not publicly available, a realistic business dataset was designed using industry assumptions and branch-level performance characteristics.
+
+Generated Business Metrics:
+
+```text
+Orders
+Revenue
+Customer Count
+Repeat Customers
+New Customers
+Complaints
+Delivery Time
+Branch Performance Status
+```
+
+Purpose:
+
+👉 Churn Risk Prediction
+
+👉 Operational Risk Prediction
+
+👉 Revenue Forecasting
+
+👉 Demand Forecasting
+
+👉 Executive Decision Support
+
+---
+
+### Data Engineering Process
+
+Raw data collected from public sources was transformed into four analytics-ready datasets:
+
+```text
+1. Branch Performance Dataset
+2. Feature Engineered Dataset
+3. Menu Dataset
+4. Customer Review Dataset
+```
+
+These datasets were then used to build machine learning models, forecasting modules, NLP intelligence modules, and business recommendation systems.
+
+
+---
 ## Datasets Used
 
 ### 1. Branch Performance Dataset
